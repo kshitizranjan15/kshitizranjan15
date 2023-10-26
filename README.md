@@ -43,7 +43,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=riturajgupta21&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 
 ![Kshitiz Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=kshitizranjan15&show_icons=true&theme=tokyonight)
-[![My Streak Stats](https://gh-streak-stats.rahulv.dev?user=kshitizranjan15)](https://git.io/streak-stats)
+[![My Streak Stats](https://gh-streak-stats.kshitizranjan15?user=kshitizranjan15)](https://git.io/streak-stats)
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitizranjan15&hide_border=true&area=true&point=transparent&theme=react-dark" />
 
