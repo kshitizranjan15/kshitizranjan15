@@ -11,12 +11,21 @@
 <p align="center"><img src="https://github.com/kshitizranjan15/kshitizranjan15/blob/main/My%20Formal%20Pic.jpg" width="400px" style="border-radius:20px"></p>
 
 - 🎓 B.Tech in **Computer Science & Engineering** from [ITER, SOA University](https://www.soa.ac.in/iter)  
+- 🎓 Pursuing **M.Tech in Software Engineering** from [BITS Pilani (WILP)](https://bits-pilani-wilp.ac.in/)  
+- 💼 **Software Engineer @ Fidelity International**  
 - 👨‍💻 Ex **Prism Research & Development Intern @ Samsung India**  
 - 🏆 **Wipro Mulesoft Hackathon Winner (2022)**  
 - ⭐ **Golden Badge (5⭐) in Java on HackerRank**  
-- 🎉 Contributor in **HacktoberFest 2020, 2021, 2022**  
-- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** [🔗 Certificate](https://drive.google.com/file/d/110ZKlHdf2Xf5IGJhSCm48RpPua-WMMMN/view)  
-- 📄 [View My Resume](https://drive.google.com/file/d/13GjOqAP8W2GBGvjFdiGgQWjysaFtAQha/view?usp=sharing)  
+- 🎉 Contributor in **HacktoberFest 2020, 2021, 2022, 2023 & 2024 **  
+
+## 📜 Certifications
+- 🔷 **Microsoft Certified: Azure Fundamentals (AZ-900)** [🔗 View Certificate](https://drive.google.com/file/d/110ZKlHdf2Xf5IGJhSCm48RpPua-WMMMN/view)  
+- 🟧 **AWS Certified Cloud Practitioner** [🔗 View Certificate](https://drive.google.com/file/d/1BxPRIZVLZUjRTGk-ozr1dTSwu_YEB8Qs/view?usp=drive_link)  
+- 🟧 **AWS Certified Data Engineering Associate** [🔗 View Certificate](https://drive.google.com/file/d/19TZnuQ7abjyZ84MXWfIcDZNWVo2xi7Le/view?usp=drive_link)  
+- ❄️ **SnowPro Core Certified** [🔗 View Certificate](https://drive.google.com/file/d/1xmZtVjjXZ8zcG-JQh3crzkJwRjD7iOGo/view?usp=drive_link)  
+
+## 📄 Resume
+- [View My Updated Resume](https://drive.google.com/file/d/1Zo_JeKelg6ZCbGDEFfFRx637TPrTTHyV/view?usp=drive_link)  
 
 💡 Fun Fact: I’m a **Mom’s Lover 🤱**, love **coding 💻**, and always exploring **new tech** 🚀  
 
