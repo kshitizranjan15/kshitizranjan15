@@ -16,7 +16,7 @@
 - 👨‍💻 Ex **Prism Research & Development Intern @ Samsung India**  
 - 🏆 **Wipro Mulesoft Hackathon Winner (2022)**  
 - ⭐ **Golden Badge (5⭐) in Java on HackerRank**  
-- 🎉 Contributor in **HacktoberFest 2020, 2021, 2022, 2023 & 2024 **  
+- 🎉 Contributor in **HacktoberFest 2020, 2021, 2022, 2023 & 2024**  
 
 ## 📜 Certifications
 - 🔷 **Microsoft Certified: Azure Fundamentals (AZ-900)** [🔗 View Certificate](https://drive.google.com/file/d/110ZKlHdf2Xf5IGJhSCm48RpPua-WMMMN/view)  
